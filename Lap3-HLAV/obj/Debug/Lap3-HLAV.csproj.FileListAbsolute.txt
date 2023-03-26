@@ -1,0 +1,8 @@
+D:\Lap3-HLAV\Lap3-HLAV\bin\Debug\Lap3-HLAV.exe.config
+D:\Lap3-HLAV\Lap3-HLAV\bin\Debug\Lap3-HLAV.exe
+D:\Lap3-HLAV\Lap3-HLAV\bin\Debug\Lap3-HLAV.pdb
+D:\Lap3-HLAV\Lap3-HLAV\obj\Debug\Lap3-HLAV.csproj.AssemblyReference.cache
+D:\Lap3-HLAV\Lap3-HLAV\obj\Debug\Lap3-HLAV.csproj.SuggestedBindingRedirects.cache
+D:\Lap3-HLAV\Lap3-HLAV\obj\Debug\Lap3-HLAV.csproj.CoreCompileInputs.cache
+D:\Lap3-HLAV\Lap3-HLAV\obj\Debug\Lap3-HLAV.exe
+D:\Lap3-HLAV\Lap3-HLAV\obj\Debug\Lap3-HLAV.pdb
